@@ -71,6 +71,7 @@ We welcome contributions! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a pull request.
 
-Happy coding with Solana-DevKIT!
+Facing Issues? Find me here -> https://linktr.ee/Adityaakr
 
+Happy coding with Solana-DevKIT!
 
