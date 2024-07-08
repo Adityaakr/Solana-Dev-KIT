@@ -1,0 +1,9 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h3 {
+  @apply text-2xl;
+}
+
