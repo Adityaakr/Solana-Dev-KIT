@@ -22,16 +22,16 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 2. **Install dependencies**
 
-    Using pnpm:
-
-    ```bash
-    pnpm install
-    ```
-
-    Alternatively, you can use npm or yarn:
+    Using npm:
 
     ```bash
     npm install
+    ```
+
+    Alternatively, you can use pnpm or yarn:
+
+    ```bash
+    pnpm code install
     ```
 
     ```bash
@@ -40,16 +40,16 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
  3. Start the development server:
 
-    Using pnpm:
-
-    ```bash
-    pnpm run dev
-    ```
-
-    Alternatively, you can use npm or yarn:
+    Using npm:
 
     ```bash
     npm run dev
+    ```
+
+    Alternatively, you can use pnpm or yarn:
+
+    ```bash
+    pnpm run dev
     ```
 
     ```bash
