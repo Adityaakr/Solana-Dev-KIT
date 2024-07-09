@@ -62,14 +62,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
    ## Contributing
 
-We welcome contributions! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a pull request.
+We welcome contributions as well Fell free to Add New features as well!
 
 Facing Issues? Find me here -> https://linktr.ee/Adityaakr
 
