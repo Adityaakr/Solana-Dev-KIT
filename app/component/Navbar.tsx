@@ -15,7 +15,8 @@ const NavBar = () => {
 
   return (
     <>
-      <div className="m-10 text-3xl font-bold text-indigo-500 ]">Solana KIT</div>
+      <div>
+      <img src="./sol.png" className="size-16 m-5"></img>
       <button className="absolute top-5 right-5 z-50">
         <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg" />
         <div className="px-8 py-2 bg-white rounded-[6px] relative group transition duration-200 text-white hover:shadow-lg hover:bg-indigo-200">
@@ -26,6 +27,7 @@ const NavBar = () => {
           </WalletMultiButtonDynamic>
         </div>
       </button>
+      </div>
     </>
   );
 };

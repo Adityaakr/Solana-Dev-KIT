@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <>
       <div className="mt-18 animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent 
-      text-5xl font-blackflex flex-col items-center justify-between p-24 font-mono text-center">
-        Start Building Your Next Solana Dapp{" "}
+      text-5xl font-blackflex flex-col items-center justify-between font-sans text-center p-16">
+        Start Building Your Next Dapp on Solana
 
-        <p className="font-bold text-center mt-3 italic">Today!</p>
+        <p className="font-bold text-center mt-5 italic">Today!!!</p>
       </div>
       <div className=" bg-white rounded-lg flex flex-col items-center justify-center md:flex-row">
         <Card
