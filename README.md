@@ -5,6 +5,7 @@ Welcome to the Solana DevKIT repository! This project aims to provide a comprehe
 
 ## Getting Started
 
+[Screencast from 12-07-24 08:50:48 AM IST.webm](https://github.com/user-attachments/assets/326d6933-2612-446c-934c-cecb3a2e3bfe)
 
 
 ### Prerequisites
