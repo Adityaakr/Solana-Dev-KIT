@@ -1,6 +1,7 @@
 # Solana DevKIT
 
 Welcome to the Solana DevKIT repository! This project aims to provide a comprehensive development kit for building applications on the Solana blockchain.
+![image](https://github.com/user-attachments/assets/22288044-c950-46fb-9630-9dcc8aba386e)
 
 ## Getting Started
 
