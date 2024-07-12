@@ -66,5 +66,3 @@ We welcome contributions as well Fell free to Add New features as well!
 Facing Issues? Find me here -> https://linktr.ee/Adityaakr
 
 Happy coding with Solana-DevKIT!
-
-# Solana-Dev-KIT
